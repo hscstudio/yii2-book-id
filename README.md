@@ -8,6 +8,7 @@ Membangun Aplikasi Profesional Berbasis Web Menggunakan Yii Framework
 - Publishing : Self
 - Pages : x + 495 Halaman (A5)
 - Edition : ke-1, Februari 2016
+- Language : Bahasa Indonesia
 - Format: Hard copy only (cetak)
 
 ## Table of Content (Daftar Isi)
