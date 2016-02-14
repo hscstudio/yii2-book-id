@@ -7,8 +7,11 @@
 - A. 4.	Database Management System	2
 - A. 5.	Code Editor	2
 - A. 6.	Kitab Suci	2
+
 #### B.	Instalasi Apache, MySQL, dan PHP	3
+
 #### C.	Ujicoba Instalasi	8
+
 #### D.	Konfigurasi	9
 - D. 1.	Windows	10
 - D. 2.	Linux	12
