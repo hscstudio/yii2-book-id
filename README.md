@@ -4,10 +4,11 @@ Membangun Aplikasi Profesional Berbasis Web Menggunakan Yii Framework
 
 ## Book Identity (Identitas Buku)
 - Title : Membangun Aplikasi Profesional Berbasis Web Menggunakan Yii Framework
-- Author : [Hafid Mukhalasin](http://hafidmukhlasin.com)
+- Author : [Hafid Mukhlasin](http://hafidmukhlasin.com)
 - Publishing : Self
 - Pages : x + 495 Halaman (A5)
 - Edition : ke-1, Februari 2016
+- Language : Bahasa Indonesia
 - Format: Hard copy only (cetak)
 
 ## Table of Content (Daftar Isi)
