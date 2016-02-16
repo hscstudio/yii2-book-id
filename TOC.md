@@ -47,7 +47,7 @@
 
 #### E.	Kesimpulan	27
 
-### Chapter 3. Bekerja dengan Yii Framework	28
+### Chapter 3. Pengenalan Yii Framework	28
 
 #### A.	Mengenal Yii Framework	28
 - A. 1.	Apa itu Yii?	28
@@ -75,7 +75,7 @@
 
 #### E.	Kesimpulan	52
 
-### Chapter 4. Bekerja dengan MVC	53
+### Chapter 4. Model View Controller	53
 
 #### A.	Membuat Hello Word	53
 
@@ -129,7 +129,7 @@
 
 #### G.	Kesimpulan	106
 
-### Chapter 6. Bekerja dengan Code Generator	107
+### Chapter 6. Gii: Code Generator	107
 
 #### A.	Konfigurasi	107
 
@@ -192,7 +192,7 @@
 
 #### D.	Kesimpulan	195
 
-### Chapter 10. Mengenal Code Testing	196
+### Chapter 10. Code Testing	196
 
 #### A.	Apa itu Code Testing?	196
 - A. 1.	Definisi	196
@@ -279,7 +279,7 @@
 
 #### E.	Kesimpulan	373
 
-### Chapter 14. Bekerja dengan Web Service	375
+### Chapter 14. Web Service	375
 
 #### A.	Mengenal Web Service	375
 - A. 1.	Definisi	375
