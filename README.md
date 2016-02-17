@@ -38,6 +38,8 @@ If you want to get this book, then you should read the detailed table of content
 ## How To Get This Book? (Bagaimana mendapatkan buku ini?)
 - Comming soon, still in the process of printing (tunggu, masih dalam proses percetakan)
 - Hopefully next week with a limited number (Mudah-mudahan minggu depan dengan jumlah terbatas)
+- Please fill this preorder form https://goo.gl/zw7faJ (Silahkan isi form pre order ini)
+- Preview of book [Download Preview](book-preview.pdf)(Preview buku ini) 
 
 ## Who is suitable or not to use this book
 Anyone who wants to learn about Yii Framework (siapapun yang ingin belajar tentang Yii Framework)
