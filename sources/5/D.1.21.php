@@ -1,0 +1,3 @@
+[
+    [['username', 'email'], 'trim'],
+]

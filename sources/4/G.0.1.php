@@ -1,0 +1,7 @@
+'components' =>[
+    ...
+    'urlManager' => [
+        'enablePrettyUrl' => true,
+    ],
+    ...
+],

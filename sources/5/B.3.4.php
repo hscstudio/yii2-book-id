@@ -1,0 +1,1 @@
+$db->createCommand('UPDATE employee SET age=30 WHERE id=1')->execute();
