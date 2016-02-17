@@ -33,7 +33,7 @@ If you want to get this book, then you should read the detailed table of content
 
 ## If this book for free? (Apakah buku ini gratis?)
 - No (tidak)
-- About $10K - $20K (sekitar Rp.150K s.d Rp.200K)
+- About $10 - $15 (sekitar Rp.150K s.d Rp.200K)
 
 ## How To Get This Book? (Bagaimana mendapatkan buku ini?)
 - Comming soon, still in the process of printing (tunggu, masih dalam proses percetakan)
