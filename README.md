@@ -8,14 +8,13 @@ git clone https://github.com/hscstudio/yii2-book-id.git
 Silahkan baca panduannya disini https://github.com/hscstudio/yii2-book-id/sources/README.md
 
 ## Dimana saya bisa bertanya tentang materi pada buku ini?
-Anda bisa bertanya, memberikan masukan, mengomentari melalui link berikut
-https://github.com/hscstudio/yii2-book-id/issues
-Bukan melalui SMS/Whatsapp/Email penulis.
+Anda bisa bertanya, memberikan masukan, mengomentari melalui link berikut https://github.com/hscstudio/yii2-book-id/issues
+
+Kami juga akan men-summarize-nya pada wiki https://github.com/hscstudio/yii2-book-id/wiki
 
 ## Dimana bisa memesan buku ini?
-Pemesanan hanya dilayani melalui link berikut.
-https://hscstudio.github.io/yii2-book-id
+Pemesanan hanya dilayani melalui link berikut https://hscstudio.github.io/yii2-book-id
 
-## Hubungi Kami (Workshop/Seminar/Bedah Buku)
+## Hubungi Kami (Workshop/Seminar/Bedah Buku/Kerjasama)
 - SMS/Whatsapp 081559915720
 - Email : hafidmukhlasin.@gmail.com
