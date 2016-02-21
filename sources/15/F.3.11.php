@@ -1,0 +1,1 @@
+echo \Yii::t('app', 'You are the {n,ordinal} visitor here!', ['n' => 42]);
