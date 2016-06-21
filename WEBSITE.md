@@ -6,8 +6,9 @@ Membangun Aplikasi Profesional Berbasis Web Menggunakan Yii Framework
 - Title : Membangun Aplikasi Profesional Berbasis Web Menggunakan Yii Framework
 - Author : [Hafid Mukhlasin](http://hafidmukhlasin.com)
 - Publishing : Self
-- Pages : x + 497 Halaman (A5)
-- Edition : ke-1, Februari 2016
+- Pages : xvii + 499 Halaman (A5)
+- Edition : ke-1, Februari 2016 (Update 25 April 2016)
+- ISBN : 978-602-1018-12-5 (Buku Baik)
 - Language : Bahasa Indonesia
 - Format: Hard copy only (cetak)
 
@@ -35,12 +36,10 @@ If you want to get this book, then you should read the detailed table of content
 
 ## If this book for free? (Apakah buku ini gratis?)
 - No (tidak)
-- About $10K - $20K (sekitar 150K s.d 200K)
+- About $12K (Rp. 150.000,-)
 
 ## How To Get This Book? (Bagaimana mendapatkan buku ini?)
-- Comming soon, still in the process of printing (tunggu, masih dalam proses percetakan)
-- Hopefully next week with a limited number (Mudah-mudahan minggu depan dengan jumlah terbatas)
-- Please fill this preorder form https://goo.gl/zw7faJ (Silahkan isi form pre order ini)
+- https://www.tokopedia.com/yiiframework/membangun-aplikasi-profesional-berbasis-web-menggunakan-yii-framework
 - Preview of book [Download Preview](https://github.com/hscstudio/yii2-book-id/blob/master/book-preview.pdf)(Preview buku ini) 
 
 ## Who is suitable or not to use this book
@@ -52,7 +51,7 @@ Anyone who wants to learn about Yii Framework (siapapun yang ingin belajar tenta
 - Already familiar with the programming language PHP (Sudah mengenal bahasa pemrograman PHP)
 - Members of the group or Yii PHP Framework Indonesia Indonesia (Anggota grup PHP Indonesia atau Yii Framework Indonesia)
 - Have enough money to buy this book (Punya cukup uang untuk membeli buku ini)
-- Can understand that this book is a printed book with 495 pages with material that is quite complete, which would have cost printing (Bisa memahami bahwa buku ini adalah buku cetak dengan 495 halaman dengan materi yang cukup lengkap, yang tentu perlu biaya cetak)
+- Can understand that this book is a printed book with 499 pages with material that is quite complete, which would have cost printing (Bisa memahami bahwa buku ini adalah buku cetak dengan 499 halaman dengan materi yang cukup lengkap, yang tentu perlu biaya cetak)
 
 ### The criteria do not match (Kriteria yang tidak cocok)
 - Understanding the English language well (Memahami bahasa inggris dengan baik)
