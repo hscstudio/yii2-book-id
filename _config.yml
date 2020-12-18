@@ -1,0 +1,8 @@
+title: Buku Yii Framework 2 - Bahasa Indonesia
+description: Buku "Membangun Aplikasi Profesional Berbasis Web Menggunakan Yii Framework"
+google_analytics: 
+show_downloads: true
+theme: jekyll-theme-leap-day
+
+gems:
+  - jekyll-mentions
