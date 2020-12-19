@@ -1,6 +1,6 @@
 # E-Book Yii Framework Versi 2.0
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fhscstudio.github.io%2Fyii2-book-id&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)]
+![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fhscstudio.github.io%2Fyii2-book-id&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)
 
 ![cover buku](https://github.com/hscstudio/yii2-book-id/blob/master/images/cover-depan.jpg?raw=true)
 
