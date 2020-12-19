@@ -33,7 +33,7 @@
 
 ## Access E-Book for Free!
 
-- [Access](http://bit.ly/ebookyii2)
+- [Access](http://bit.ly/ebook-yii-2-indonesia)
 
 ## Buku Lain Karya Penulis
 
