@@ -33,14 +33,14 @@
 
 ## Access E-Book for Free!
 
-- [Access](http://bit.ly/ebook-yii-2-indonesia)
+- [Download atau Akses disini!](http://bit.ly/ebook-yii-2-indonesia)
 
 ## Buku Lain Karya Penulis
 
 - [Be Fullstack Developer: Laravel - VueJS](https://buku-laravel-vue.com)
 - [Be Fullstack Javascript Developer: ReactJS - ExpressJS](https://bukureact.id)
 
-## Contact Us (Hubungi Kami)
+## Hubungi Kami
 
 - SMS/Whatsapp 081559915720
 - Email: hafidmukhlasin.@gmail.com
